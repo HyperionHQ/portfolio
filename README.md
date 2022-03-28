@@ -1,2 +1,2 @@
-# portfolio-website
-This is our Portfolio website
+# portfolio
+This is our Portfolio
