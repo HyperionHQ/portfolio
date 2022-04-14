@@ -66,3 +66,7 @@ body {
     text-decoration: none;
     color: #555;
 }
+
+.webhook {
+    color: black
+}
